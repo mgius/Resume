@@ -1,11 +1,21 @@
-# Nathaniel Welch
+# Mark Gius
+<!-- If you think this resume project is cool, you should check out Nat Welch, 
+     he came up with the original version: http://natwelch.com/ -->
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+ * <mgius7096@gmail.com>
+ * <http://github.com/mgius>
+ * 707-301-8294
 
 ## Background
 
+I am currently enrolled in the Computer Science program at Cal Poly San Luis Obispo.
+I have an active interest in computer security and computer education.  I have a passion
+for educating users about computing techniques to encourage safe, independent computing.
+I love distributing computing knowledge as widely as possible, and enjoy passing on
+my own knowledge to layman and technical experts alike.  I am an Eagle Scout and active
+member of the Cal Poly Linux Users Group.
+
+<!--
 I am a current student of Computer Science at Cal Poly with an interest in
 communication and design. I am a big believer in experimenting with new things
 to expand my knowledge both professionally and recreationally. I strive to be a
@@ -13,81 +23,114 @@ quick learner and both a competent leader and capable worker. I am an Eagle
 Scout and was an active officer of the Cal Poly Linux Users Group for three
 years. I was awarded Cal Poly's Residence Hall Council member of the year for
 both 2006 and 2007.
+-->
 
 ## Education
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+Computer Science, B.S.
+Fall 2006 - Winter 2011
+California Polytechnic State University, San Luis Obispo
 
 ## Systems Proficiency
 
 **Programming Languages**
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
+ > Proficient in:  Java, C, Python, SQL (MSSQL), Perl, Bash
 
- > Experience with: F#, Python, C++, MongoDB
+ > Experience with: F#, C++, Django, HTML, CSS, JSP
 
 **Software**
 
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+ > I have experience with Eclipse and Vim development environments.
+ > I have used SVN and Git extensively with small teams.  I have run
+ > Linux on the desktop and server since 2006, and have some experience
+ > managing Windows Server 2003 era windows domains.
+ >
+ > I have extensive experience with setting up and maintaining the 
+ > Nagios network monitoring software, and some experience with 
+ > the Cacti and Ganglia trending/monitoring suites of software.
+ > 
+ > I have worked with Apache configurations, DRBD, DNS and DHCP
+ > configuration, and linux iptables configuration.
+
+**Hardware**
+
+ > Experience working in datacenters with live systems.  Some Cisco switch
+ > exposure. 
 
 ## Experience
 
-### iFixit.com, San Luis Obispo CA
+### Createspace.com, San Luis Obispo CA
 
 #### Software Developer
+#####  September 2010 - Present
 
-##### April 2009 - Present
+#### Systems Administrator
+#####  September 2008 - September 2010
 
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
+ * Wrote and maintained a multi-location Nagios monitoring configuration.
+ * Maintained Cacti monitoring server for OS, application, and database metrics.
+ * Replaced hardware-based testing servers with scalable VMWare based infrastructure
+ * Performed server installs and maintainance in co-location facility.
+ * Automated installation of windows desktops with a series of scripts to configure
+   user accounts, development software, and common configuration.
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
 
-### Adobe Systems Incorporated, San Francisco CA
+### Farallon Geographics, San Francisco CA
 
-#### Dreamweaver QE Intern
+#### Intern - Systems Administrator 
+##### Summer 2008 
 
-##### Summer 2007 and 2008
+ * Helped transition from bare server development environment to virtualized
+   development environment.
+ * Advised on security issues in solution deployments.
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case Application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4.
+### Cal Poly San Luis Obispo Housing
 
-<!--
-### California Polytechnic State University, San Luis Obispo CA
+#### Resident Advisor
+##### September 2007 - June 2008
 
-#### Computer Science Lab Monitor
+ * Provided support for 63 freshmen students seeking advice on Cal Poly, 
+   local, and class resources
+ * Worked with 10 fellow staff on providing educational and entertaining events
+ * Mediated disputes between residents
 
-##### Sept. 2006 to June 2007
+### Wallace Kuhl & Associates, West Sacramento
 
- * Maintained printers and computers for seven labs.
+#### IT Assistant
+##### June 2005 - June 2007 as needed
 
-### Sonoma County Information Systems Department, Santa Rosa CA
+ * Reduced Internet Load and network strain by installing a system of internet caching servers
+ * Created a web-based Job Database system using Java and Access
+ * Provided technical support for employees 
+ * Installed, Maintained and Repaired several hundred laptops and desktops
 
-#### Intern
+### Onramp113, Dixon
 
-##### June 2005 to Sept. 2005
- 
- * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
--->
+#### In-House Technician
+##### 2002 - 2005 as needed
 
-### BSA Camp Oljato, Lakeshore CA
+ * Provided In-Home technical support for both Hardware and Software issues
+ * Provided basic tutoring in common applications, including Microsoft Office, 
+   photo editing software, email and internet applications, and basic peripheral 
+   maintenance
+ * Provided free-of-charge email follow-ups for all customers to ensure satisfaction
 
-#### Nature Director
+### Camp Winton, BSA
 
-##### Summer 2006
+#### Kitchen Staff & Merit Badge Counselor
+##### Summers 2003 - 2005
 
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
+Served as part of a team of 50 staff members to provide an outdoor experience
+for an average of 300 Boy Scouts each week aged 13-17. 
 
-#### Camp Counselor
-
-##### Summer 2002, 2003 and 2004
-
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
- * Dealt with their scoutmasters, which were usually older adults around the age of 40 to 60
- * Dealt with medical emergencies ranging from altitude sickness and dehydration to broken ribs.
-
+ * Created and maintained lesson plans for a variety of merit badges.
+   Updated lesson plans each week in response to Scout success rate.
+ * Led weekly camp improvement projects for small groups of scouts.
+ * Responded to unplanned situations and emergencies, including medical
+   emergencies and missing persons.
+ * Taught merit badge classes such as Soil and Water Conservation, 
+   Nature, Art, Woodcarving and Music
+ * Managed the Kitchen clean-up crew, ensuring that the kitchen was 
+   thoroughly clean to prevent illness.  Assisted during meal prep as
+   necessary.

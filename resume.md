@@ -3,7 +3,7 @@
      he came up with the original version: http://natwelch.com/ -->
 
  * <mgius7096@gmail.com>
- * <http://github.com/mgius>
+ * <http://mgius.github.com/Resume>
  * 707-301-8294
 
 ## Background
@@ -14,6 +14,7 @@ for educating users about computing techniques to encourage safe, independent co
 I love distributing computing knowledge as widely as possible, and enjoy passing on
 my own knowledge to layman and technical experts alike.  I am an Eagle Scout and active
 member of the Cal Poly Linux Users Group.
+
 ## Education
 
 Computer Science, B.S.
@@ -24,9 +25,9 @@ California Polytechnic State University, San Luis Obispo
 
 **Programming Languages**
 
- > Proficient in:  Java, C, Python, SQL (MSSQL), Perl, Bash
+ > Proficient in:  Java, C, Python, Perl, Bash
 
- > Experience with: F#, C++, Django, HTML, CSS, JSP
+ > Experience with: C++, Django, SQL, HTML, CSS, JSP, F#, Scheme/Racket
 
 **Software**
 
@@ -64,6 +65,16 @@ California Polytechnic State University, San Luis Obispo
  * Automated installation of windows desktops with a series of scripts to configure
    user accounts, development software, and common configuration.
 
+### Cal Poly San Luis Obispo Computer Science Department
+
+#### Programming Tutor
+##### April 2008 - March 2010
+
+ * Assisted students in introductory programming courses, with a focus
+   on driving the students to finding their own solutions, rather than
+   accepting solutions from the tutor.
+ * Observed and reported common difficulties and frustrations to 
+   introductory professors
 
 ### Farallon Geographics, San Francisco CA
 

@@ -4,7 +4,6 @@
 
  * <mgius7096@gmail.com>
  * <http://mgius.github.com/Resume>
- * 707-301-8294
 
 ## Background
 

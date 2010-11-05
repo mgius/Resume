@@ -11,7 +11,7 @@ and now it's turned into an easy way to host your resume using [sinatra][s],
 
  1. Fork this project
  2. Modify resume.md to be your resume.
- 3. Modify config.yaml so that the data represents you, not icco.
+ 3. Modify config.yaml so that the data represents you, not mgius.
  4. Edit views/style.less to make your resume look pretty.
  5. Install the gems [sinatra][s], [github-markup][gm], [git][g], [rack-test][rt], [heroku][h] and [less][l]
    * install the correct parser for [github-markup][gm], such as [rdiscount][r] for [Markdown][md].
@@ -42,6 +42,7 @@ resume, and some of the forks of it.
 ## License
 
 resume.md is property of Nathaniel "Nat" Welch. You are welcome to use it as a
-base structure for your resume, but don't forget, you are not him.
+base structure for your resume, but don't forget, you are not him, or whoever
+you forked it from.
 
 The rest of the code is licensed CC-GPL. Remember sharing is caring.

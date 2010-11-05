@@ -14,7 +14,6 @@ for educating users about computing techniques to encourage safe, independent co
 I love distributing computing knowledge as widely as possible, and enjoy passing on
 my own knowledge to layman and technical experts alike.  I am an Eagle Scout and active
 member of the Cal Poly Linux Users Group.
-
 ## Education
 
 Computer Science, B.S.

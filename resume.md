@@ -8,16 +8,23 @@
 ## Background
 
 I am currently enrolled in the Computer Science program at Cal Poly San Luis Obispo.
+I have an active interest in computer security and developing "bullet-proof" systems.
+I am an Eagle Scout and active member of the Cal Poly Linux Users Group.
+
+<!-- I like this statement, but it makes it sound
+     like I want to be a teacher.
+I am currently enrolled in the Computer Science program at Cal Poly San Luis Obispo.
 I have an active interest in computer security and computer education.  I have a passion
 for educating users about computing techniques to encourage safe, independent computing.
 I love distributing computing knowledge as widely as possible, and enjoy passing on
 my own knowledge to layman and technical experts alike.  I am an Eagle Scout and active
 member of the Cal Poly Linux Users Group.
+-->
 
 ## Education
 
 Computer Science, B.S.
-Fall 2006 - Winter 2011
+Expected Graduation March 2011
 California Polytechnic State University, San Luis Obispo
 
 ## Systems Proficiency
@@ -39,13 +46,20 @@ California Polytechnic State University, San Luis Obispo
  > Nagios network monitoring software, and some experience with 
  > the Cacti and Ganglia trending/monitoring suites of software.
  > 
- > I have worked with Apache configurations, DRBD, DNS and DHCP
+ > I have worked with moderately complex 
+ > Apache configurations, DRBD, DNS and DHCP
  > configuration, and linux iptables configuration.
+<!-- Don't need these right now 
+ > 
+ > I am proficient in LateX. 
+ > I have some experience with Scribus document creating software
+ > and The Gimp photo-editing suite.
+-->
 
 **Hardware**
 
- > Experience working in datacenters with live systems.  Some Cisco switch
- > exposure. 
+ > Experience working in datacenters with live systems.  Some Cisco IOS
+ > experience.
 
 ## Experience
 
@@ -53,6 +67,13 @@ California Polytechnic State University, San Luis Obispo
 
 #### Software Developer
 #####  September 2010 - Present
+
+ * Tested new features and bug fixes to ensure bug-free releases
+ * Developed code to provide new product line for customers, 
+   including interacting with third-party API and working with business 
+   interests
+ * Helped developer migration from Windows to Linux development environment
+ * Drove adoption of Git to replace legacy CVS environment
 
 #### Systems Administrator
 #####  September 2008 - September 2010
@@ -73,7 +94,7 @@ California Polytechnic State University, San Luis Obispo
    on driving the students to finding their own solutions, rather than
    accepting solutions from the tutor.
  * Observed and reported common difficulties and frustrations to 
-   introductory professors
+   professors
 
 ### Farallon Geographics, San Francisco CA
 
@@ -100,13 +121,13 @@ California Polytechnic State University, San Luis Obispo
 ##### June 2005 - June 2007 as needed
 
  * Reduced Internet Load and network strain by installing a system of internet caching servers
- * Created a web-based Job Database system using Java and Access
+<!-- * Created a web-based Job Database system using Java and Access -->
  * Provided technical support for employees 
  * Installed, Maintained and Repaired several hundred laptops and desktops
 
 ### Onramp113, Dixon
 
-#### In-House Technician
+#### Home Service Technician
 ##### 2002 - 2005 as needed
 
  * Provided In-Home technical support for both Hardware and Software issues
@@ -117,7 +138,7 @@ California Polytechnic State University, San Luis Obispo
 
 ### Camp Winton, BSA
 
-#### Kitchen Staff & Merit Badge Counselor
+#### Camp Counselor
 ##### Summers 2003 - 2005
 
 Served as part of a team of 50 staff members to provide an outdoor experience

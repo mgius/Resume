@@ -31,7 +31,7 @@ California Polytechnic State University, San Luis Obispo
 
 **Programming Languages**
 
- > Proficient in:  Java, C, Python, Perl, Bash
+ > Expert in:  Java, C, Python, Perl, Bash
 
  > Experience with: C++, Django, SQL, HTML, CSS, JSP, F#, Scheme/Racket
 
@@ -43,11 +43,10 @@ California Polytechnic State University, San Luis Obispo
  > managing Windows Server 2003 era windows domains.
  >
  > I have extensive experience with setting up and maintaining the 
- > Nagios network monitoring software, and some experience with 
+ > Nagios network monitoring software, and experience with 
  > the Cacti and Ganglia trending/monitoring suites of software.
- > 
- > I have worked with moderately complex 
- > Apache configurations, DRBD, DNS and DHCP
+ >
+ > I have worked with complex Apache configurations, DRBD, DNS and DHCP
  > configuration, and linux iptables configuration.
 <!-- Don't need these right now 
  > 
@@ -58,8 +57,8 @@ California Polytechnic State University, San Luis Obispo
 
 **Hardware**
 
- > Experience working in datacenters with live systems.  Some Cisco IOS
- > experience.
+ > Experience working in datacenters with live systems.  Familiar 
+ > with Cisco IOS
 
 ## Experience
 

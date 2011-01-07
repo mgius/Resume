@@ -8,7 +8,7 @@ body {
   font-family: serif;
 }
 .download { display: none; }
-#resume { font-size: 10pt; }
+#resume { font-size: 9pt; }
 #resume a {
   color: black;
   text-decoration: none;
@@ -23,9 +23,9 @@ body {
 #resume h4 { border: 0 !important; }
 #resume h5 { border: 0 !important; }
 #resume h6 { border: 0 !important; }
-#resume h1 { font-size: 170% !important; }
+#resume h1 { font-size: 150% !important; }
 #resume h1:first-child { border-top: none !important; }
-#resume h2 { font-size: 150% !important; }
+#resume h2 { font-size: 130% !important; }
 #resume p {
   margin: 1em 0 !important;
   line-height: 1.5em !important;
@@ -34,8 +34,13 @@ body {
   border-left: 5px solid #dddddd;
   margin: 1em 0;
   padding-left: 0.6em;
+  font-size: 90%;
 }
-#resume ul { margin: 1em 0 1em 2em !important; }
+#resume blockquote p { margin-top: 1000px; }
+#resume ul {
+  font-size: 90%;
+  margin: 1em 0 1em 2em !important;
+}
 #resume ul li {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -48,7 +53,10 @@ body {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
-#resume ol { margin: 1em 0 1em 2em !important; }
+#resume ol {
+  font-size: 90%;
+  margin: 1em 0 1em 2em !important;
+}
 #resume ol li {
   margin-top: 0.5em;
   margin-bottom: 0.5em;

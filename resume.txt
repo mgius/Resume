@@ -34,8 +34,7 @@ California Polytechnic State University, San Luis Obispo
 
 **Programming Languages**
 
- > Expert in:  Java, C, Python, Perl, Bash
-
+ > Expert in:  Java, C, Python, Perl, Bash  
  > Experience in: C++, Django, SQL, HTML, CSS, JSP, F#, Scheme/Racket
 
 **Software**
@@ -67,8 +66,7 @@ California Polytechnic State University, San Luis Obispo
 
 ### Createspace.com, San Luis Obispo CA
 
-#### Software Developer
-#####  September 2010 - Present
+#### Software Developer -- September 2010 - Present
 
  * Developed code to provide new product line for customers, 
    including interacting with third-party API and working with business 
@@ -78,8 +76,7 @@ California Polytechnic State University, San Luis Obispo
  * Charged with migration from Windows to Linux development environment
  * Tested new features to ensure bug-free releases
 
-#### Systems Administrator
-#####  September 2008 - September 2010
+#### Systems Administrator -- September 2008 - September 2010
 
  * Wrote and maintained a multi-location Nagios monitoring configuration
  * Maintained Cacti monitoring server for OS, application, and database metrics
@@ -88,6 +85,7 @@ California Polytechnic State University, San Luis Obispo
  * Automated installation of windows desktops with a series of scripts to configure
    user accounts, development software, and common configuration
 
+<!--
 ### Cal Poly San Luis Obispo Computer Science Department
 
 #### Programming Tutor
@@ -98,11 +96,11 @@ California Polytechnic State University, San Luis Obispo
    accepting solutions from the tutor
  * Observed and reported common difficulties and frustrations to 
    professors
+-->
 
 ### Farallon Geographics, San Francisco CA
 
-#### Intern - Systems Administrator 
-##### Summer 2008 
+#### Intern - Systems Administrator -- Summer 2008 
 
  * Helped transition from bare server development environment to virtualized
    development environment
@@ -110,24 +108,25 @@ California Polytechnic State University, San Luis Obispo
 
 ### Cal Poly San Luis Obispo Housing
 
-#### Resident Advisor
-##### September 2007 - June 2008
+#### Resident Advisor -- September 2007 - June 2008
 
  * Mediated disputes between residents
  * Provided support for 63 freshmen students seeking advice on Cal Poly, 
    local community, and class resources
  * Charged with assigning and running educational and entertaining events for residents
 
+<!--
 ### Wallace Kuhl & Associates, West Sacramento
 
 #### IT Assistant
 ##### June 2005 - June 2007 as needed
 
  * Installed internet caching servers
-<!-- * Created a web-based Job Database system using Java and Access -->
  * Provided technical support for employees 
  * Installed, Maintained and Repaired several hundred laptops and desktops
 
+ -->
+<!--
 ### Onramp113, Dixon
 
 #### Home Service Technician
@@ -138,11 +137,12 @@ California Polytechnic State University, San Luis Obispo
    photo editing software, email and internet applications, and basic peripheral 
    maintenance
  * Provided follow-ups for all customers to ensure satisfaction
+ -->
 
+<!--
 ### Camp Winton, Boy Scouts of America
 
-#### Camp Counselor
-##### Summers 2003 - 2005
+#### Camp Counselor dash dash Summers 2003 - 2005
 
 Served as staff member to provide an outdoor experience
 for an average of 300 Boy Scouts each week aged 13-17. 
@@ -156,3 +156,4 @@ for an average of 300 Boy Scouts each week aged 13-17.
    Nature, Art, Woodcarving and Music
  * Managed the Kitchen clean-up crew, ensuring that the kitchen was thoroughly
    clean to prevent illness.  Assisted during meal preparation as necessary
+-->

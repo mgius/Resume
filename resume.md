@@ -148,7 +148,7 @@ Served as staff member to provide an outdoor experience
 for an average of 300 Boy Scouts each week aged 13-17. 
 
  * Created and maintained lesson plans for a variety of merit badges
-   Updated lesson plans each week in response to Scout success rate
+ * Updated lesson plans each week in response to Scout success rate
  * Led weekly camp improvement projects for groups of scouts
  * Responded to unplanned situations and emergencies, including medical
    emergencies and missing persons

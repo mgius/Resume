@@ -3,19 +3,30 @@
   padding: 0;
 }
 body {
-  background: white;
-  color: black;
+  color: #333333;
+  line-height: 1.4em;
+  background-color: #f9f9f9;
   font-family: serif;
+  font-size: 0.9em;
 }
-.download { display: none; }
-#resume { font-size: 8pt; }
-#resume a {
-  color: black;
-  text-decoration: none;
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
 }
-#resume a:visited {
-  color: black;
-  text-decoration: none;
+.download {
+  margin-top: 100px;
+  display: block;
+  text-align: right;
+}
+#resume {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  padding: 10px;
 }
 #resume h1 { border: 0 !important; }
 #resume h2 { border: 0 !important; }
@@ -23,24 +34,29 @@ body {
 #resume h4 { border: 0 !important; }
 #resume h5 { border: 0 !important; }
 #resume h6 { border: 0 !important; }
-#resume h1 { font-size: 150% !important; }
-#resume h1:first-child { border-top: none !important; }
-#resume h2 { font-size: 130% !important; }
+#resume h1 {
+  font-size: 170% !important;
+  border-top: 4px solid #aaaaaa !important;
+  padding-top: 0.5em !important;
+  margin-top: 1.5em !important;
+}
+#resume h1:first-child {
+  margin-top: 30px !important;
+  padding-top: 0.25em !important;
+  border-top: none !important;
+}
+#resume h2 {
+  font-size: 150% !important;
+  margin-top: 1.5em !important;
+  border-top: 4px solid #e0e0e0 !important;
+  padding-top: 0.5em !important;
+}
+#resume h3 { margin-top: 1em !important; }
 #resume p {
   margin: 1em 0 !important;
-  line-height: 1.5em !important;
+  line-height: auto !important;
 }
-#resume blockquote {
-  border-left: 5px solid #dddddd;
-  margin: 1em 0;
-  padding-left: 0.6em;
-  font-size: 90%;
-}
-#resume blockquote p { margin-top: 1000px; }
-#resume ul {
-  font-size: 90%;
-  margin: 1em 0 1em 2em !important;
-}
+#resume ul { margin: 1em 0 1em 2em !important; }
 #resume ul li {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -53,10 +69,7 @@ body {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
-#resume ol {
-  font-size: 90%;
-  margin: 1em 0 1em 2em !important;
-}
+#resume ol { margin: 1em 0 1em 2em !important; }
 #resume ol li {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -69,24 +82,40 @@ body {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
-#resume a { text-decoration: none; }
-#resume a:visited { text-decoration: none; }
+#resume blockquote {
+  border-left: 5px solid #dddddd;
+  margin: 1em 0;
+  padding-left: 0.6em;
+}
+#resume a {
+  color: #4183c4;
+  text-decoration: none;
+}
+#resume a:visited {
+  color: #4183c4;
+  text-decoration: none;
+}
 #resume a:hover { text-decoration: underline; }
 #resume pre {
   margin: 1em 0 !important;
   font-size: 12px !important;
+  background-color: #f8f8ff !important;
   border: 1px solid #dedede !important;
   padding: 0.5em !important;
   line-height: 1.5em !important;
+  color: #444444 !important;
   overflow: auto !important;
 }
 #resume pre code {
   padding: 0 !important;
   font-size: 12px !important;
+  background-color: #f8f8ff !important;
   border: none !important;
 }
 #resume code {
   font-size: 12px !important;
+  background-color: #f8f8ff !important;
+  color: #444444 !important;
   padding: 0 0.2em !important;
   border: 1px solid #dedede !important;
 }
@@ -95,6 +124,7 @@ body {
   margin: 1em 0 !important;
   border-left: 5px solid #dddddd !important;
   padding-left: 0.6em !important;
+  color: #555555 !important;
 }
 #resume dt {
   font-weight: bold !important;

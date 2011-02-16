@@ -8,7 +8,7 @@ body {
   font-family: serif;
 }
 .download { display: none; }
-#resume { font-size: 8pt; }
+#resume { font-size: 8.5pt; }
 #resume a {
   color: black;
   text-decoration: none;
@@ -39,11 +39,11 @@ body {
 #resume blockquote p { margin-top: 1000px; }
 #resume ul {
   font-size: 90%;
-  margin: 1em 0 1em 2em !important;
+  margin: 0.5em 0 0.5em 2em !important;
 }
 #resume ul li {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
 }
 #resume ul ul {
   margin-top: 0 !important;
@@ -55,11 +55,11 @@ body {
 }
 #resume ol {
   font-size: 90%;
-  margin: 1em 0 1em 2em !important;
+  margin: 0.5em 0 0.5em 2em !important;
 }
 #resume ol li {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
 }
 #resume ol ul {
   margin-top: 0 !important;

@@ -3,7 +3,7 @@
      he came up with the original version: http://natwelch.com/ -->
 
  * <mgius7096@gmail.com>
- * <http://mgius.github.com/Resume>
+ * <http://markgius.com>
 
 <!--
 ## Background

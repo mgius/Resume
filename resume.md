@@ -9,8 +9,7 @@
 
 I am a Software Engineer based out of Seattle, WA.  I want to work with smart
 people on hard problems, with a focus on ensuring that the solution is testable
-and fixable.  I enjoy discussing breaking down and analysing the use of video
-game mechanics to drive story and player immersion.
+and fixable.  
 
 <!--
 I have an active interest in computer security and developing
@@ -47,8 +46,6 @@ California Polytechnic State University, San Luis Obispo
  > Zookeeper primitives to drive synchronization and configuration management.
  > 
  > Strong knowledge of networking fundamentals (Layers 2 and 3, ARP, bridging, routing, etc)
- > 
- >
 
 <!-- I doubt Im very good with this anymore
  > Extensive experience with setting up and maintaining the 
@@ -86,6 +83,11 @@ California Polytechnic State University, San Luis Obispo
  * Developed tests and test frameworks for testing distributed systems using KVM
  * Contributed bugfixes and features to open source projects, including CPython, Kazoo, and PyLint.
  * Managed Summer Intern each year, providing guidance and direction
+ * Taught Python, Git, Mock, and other technologies to other employees, helping
+   them come up to speed during early days of the company
+ * Diagnosed issues with a wide variety of open source components used to back
+   Openstack, including RabbitMQ, Redis, MySQL, Linux, Cassandra, HAProxy,
+   dnsmasq, ntpd, nginx, and many more
 
 
 ### Createspace.com, San Luis Obispo CA

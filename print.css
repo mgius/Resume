@@ -1,3 +1,7 @@
+/**
+ * Resume print style sheet.
+ * Attempts to make the page similar, but better looking on paper.
+ */
 * {
   margin: 0;
   padding: 0;
@@ -7,100 +11,102 @@ body {
   color: black;
   font-family: serif;
 }
-.download { display: none; }
-#resume { font-size: 8.5pt; }
-#resume a {
-  color: black;
-  text-decoration: none;
+.download {
+  display: none;
 }
+#resume {
+  font-size: 8.5pt;
+}
+#resume a,
 #resume a:visited {
   color: black;
   text-decoration: none;
 }
-#resume h1 { border: 0 !important; }
-#resume h2 { border: 0 !important; }
-#resume h3 { border: 0 !important; }
-#resume h4 { border: 0 !important; }
-#resume h5 { border: 0 !important; }
-#resume h6 { border: 0 !important; }
-#resume h1 { font-size: 150% !important; }
-#resume h1:first-child { border-top: none !important; }
-#resume h2 { font-size: 130% !important; }
+#resume h1,
+#resume h2,
+#resume h3,
+#resume h4,
+#resume h5,
+#resume h6 {
+  border: 0 !important;
+}
+#resume h1 {
+  font-size: 150% !important;
+}
+#resume h1:first-child {
+  border-top: none !important;
+}
+#resume h2 {
+  font-size: 130% !important;
+}
 #resume p {
-  margin: 1em 0 !important;
-  line-height: 1.5em !important;
+  margin: 1em 0!important;
+  line-height: 1.5em!important;
 }
 #resume blockquote {
-  border-left: 5px solid #dddddd;
+  border-left: 5px solid #DDDDDD;
   margin: 1em 0;
   padding-left: 0.6em;
   font-size: 90%;
 }
-#resume blockquote p { margin-top: 1000px; }
-#resume ul {
-  font-size: 90%;
-  margin: 0.5em 0 0.5em 2em !important;
+#resume blockquote p {
+  margin-top: 1000px;
 }
-#resume ul li {
-  margin-top: 0.25em;
-  margin-bottom: 0.25em;
-}
-#resume ul ul {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-#resume ul ol {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
+#resume ul,
 #resume ol {
   font-size: 90%;
   margin: 0.5em 0 0.5em 2em !important;
 }
+#resume ul li,
 #resume ol li {
-  margin-top: 0.25em;
-  margin-bottom: 0.25em;
+  margin-top: .25em;
+  margin-bottom: .25em;
 }
-#resume ol ul {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
+#resume ul ul,
+#resume ol ul,
+#resume ul ol,
 #resume ol ol {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-top: 0!important;
+  margin-bottom: 0!important;
 }
-#resume a { text-decoration: none; }
-#resume a:visited { text-decoration: none; }
-#resume a:hover { text-decoration: underline; }
+#resume a,
+#resume a:visited {
+  text-decoration: none;
+}
+#resume a:hover {
+  text-decoration: underline;
+}
 #resume pre {
-  margin: 1em 0 !important;
-  font-size: 12px !important;
-  border: 1px solid #dedede !important;
-  padding: 0.5em !important;
-  line-height: 1.5em !important;
-  overflow: auto !important;
+  margin: 1em 0!important;
+  font-size: 12px!important;
+  border: 1px solid #dedede!important;
+  padding: .5em!important;
+  line-height: 1.5em!important;
+  overflow: auto!important;
 }
 #resume pre code {
-  padding: 0 !important;
-  font-size: 12px !important;
-  border: none !important;
+  padding: 0!important;
+  font-size: 12px!important;
+  border: none!important;
 }
 #resume code {
-  font-size: 12px !important;
-  padding: 0 0.2em !important;
-  border: 1px solid #dedede !important;
+  font-size: 12px!important;
+  padding: 0 .2em!important;
+  border: 1px solid #dedede!important;
 }
-#resume img { max-width: 100%; }
+#resume img {
+  max-width: 100%;
+}
 #resume blockquote {
-  margin: 1em 0 !important;
-  border-left: 5px solid #dddddd !important;
-  padding-left: 0.6em !important;
+  margin: 1em 0!important;
+  border-left: 5px solid #ddd!important;
+  padding-left: .6em!important;
 }
 #resume dt {
-  font-weight: bold !important;
-  margin-left: 1em !important;
+  font-weight: bold!important;
+  margin-left: 1em!important;
 }
 #resume dd {
-  margin-left: 2em !important;
-  margin-bottom: 1em !important;
+  margin-left: 2em!important;
+  margin-bottom: 1em!important;
 }

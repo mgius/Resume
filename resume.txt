@@ -5,23 +5,19 @@
  * <mgius7096@gmail.com>
  * <http://markgius.com>
 
-<!--
 ## Background
 
-I am currently in my last quarter in the Computer Science program at Cal Poly
-San Luis Obispo.  I have an active interest in computer security and developing
+I am a Software Engineer based out of Seattle, WA.  I want to work with smart
+people on hard problems, with a focus on ensuring that the solution is testable
+and fixable.  
+
+<!--
+I have an active interest in computer security and developing
 "bullet-proof" systems.  I am an Eagle Scout and active member of the Cal Poly
 Linux Users Group.
--->
 
-<!-- I like this statement, but it makes it sound
-     like I want to be a teacher.
-I am currently enrolled in the Computer Science program at Cal Poly San Luis Obispo.
-I have an active interest in computer security and computer education.  I have a passion
-for educating users about computing techniques to encourage safe, independent computing.
 I love distributing computing knowledge as widely as possible, and enjoy passing on
-my own knowledge to layman and technical experts alike.  I am an Eagle Scout and active
-member of the Cal Poly Linux Users Group.
+my own knowledge to layman and technical experts alike.  I am an Eagle Scout.
 -->
 
 ## Education
@@ -34,24 +30,32 @@ California Polytechnic State University, San Luis Obispo
 
 **Programming Languages**
 
- > Expert in:  Java, C, Python, Perl, Bash
+ > Expert in:  Python, Java, Bash
 
- > Experience in: C++, Django, SQL, HTML, CSS, JSP, F#, Scheme/Racket
+ > Experience in: C, C++, Django, Perl, SQL, HTML, CSS, JSP, F#, Scheme/Racket
 
 **Software**
 
- > Experienced with Eclipse and Vim development environments.
- > I have used SVN and Git extensively with small teams.  Advanced user of
+ > Strong GIT experience.
+ > Experienced with Eclipse, Netbeans and Vim development environments.
  > Linux on the desktop and server since 2006. Some experience
  > managing Windows Server 2003 era Windows domains.
  >
+ > I am an expert in the Zookeeper Key/Value store, with experience with the
+ > Java, Python and C clients.  Experience developing applications using
+ > Zookeeper primitives to drive synchronization and configuration management.
+ > 
+ > Strong knowledge of networking fundamentals (Layers 2 and 3, ARP, bridging, routing, etc)
+
+<!-- I doubt Im very good with this anymore
  > Extensive experience with setting up and maintaining the 
- > Nagios network monitoring software, and experience with 
+ > Nagios network monitoring software
  > the Cacti and Ganglia trending/monitoring suites of software.
  >
  > Worked with complex Apache configurations, DRBD, DNS and DHCP
  > configuration, and Linux iptables configuration.
-<!-- Don't need these right now 
+-->
+<!-- Dont need these right now 
  > 
  > I am proficient in LateX. 
  > I have some experience with Scribus document creating software
@@ -65,10 +69,31 @@ California Polytechnic State University, San Luis Obispo
 
 ## Experience
 
+### Nebula Inc, Seattle WA
+
+#### Senior Software Engineer
+##### May 2011 - April 2015
+
+ * Built an Openstack Cloud management system from the ground up, with a focus
+   on resiliency of individual components and completely automated function
+ * Built a configuration management system on top of Zookeeper
+ * Managed and diagnosed a full Openstack distribution, with primary ownership
+   over Keystone.
+ * Customized and managed a Celery based task queue for processing jobs
+ * Developed tests and test frameworks for testing distributed systems using KVM
+ * Contributed bugfixes and features to open source projects, including CPython, Kazoo, and PyLint.
+ * Managed Summer Intern each year, providing guidance and direction
+ * Taught Python, Git, Mock, and other technologies to other employees, helping
+   them come up to speed during early days of the company
+ * Diagnosed issues with a wide variety of open source components used to back
+   Openstack, including RabbitMQ, Redis, MySQL, Linux, Cassandra, HAProxy,
+   dnsmasq, ntpd, nginx, and many more
+
+
 ### Createspace.com, San Luis Obispo CA
 
 #### Software Developer
-#####  September 2010 - Present
+#####  September 2010 - March 2011
 
  * Developed code to provide new product line for customers, 
    including interacting with third-party API and working with business 

@@ -1,3 +1,6 @@
+# add current directory to import path
+$: << "."
+
 task :default => [:github, :heroku]
 
 desc "Run your resume locally."
